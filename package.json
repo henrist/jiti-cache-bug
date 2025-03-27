@@ -2,6 +2,7 @@
   "devDependencies": {
     "@types/node": "^22.13.13",
     "jiti": "^2.4.2",
+    "jiti-fix": "file:jiti-2.4.2-fix.tgz",
     "tsx": "^4.19.3"
   }
 }

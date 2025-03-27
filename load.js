@@ -1,4 +1,4 @@
-const { createJiti } = require("jiti");
+const { createJiti } = require("jiti-fix");
 
 const jiti = createJiti(__dirname, {
   debug: true,
