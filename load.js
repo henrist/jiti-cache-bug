@@ -1,4 +1,4 @@
-const { createJiti } = require("jiti");
+const { createJiti } = require("jiti-fix");
 const { normalize } = require("node:path");
 const { fileURLToPath } = require("node:url");
 
